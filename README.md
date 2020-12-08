@@ -1,24 +1,11 @@
 ### Hi there 👋
 
+Software Engineer
+
+Software Engineer experienced in mobile development with all Apple ecosystem, with both Objective-C and Swift languages and via TDD methodology. I have developed applications for local and international markets with a good rank of a score.
+
+Love working in a team and share knowledge. I’m curious by nature. I love learning new things or tools every day and always improve.
+I like to solve algorithmic tasks using python and study android development at free time.
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MaksimSoldatov)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
-**MaksimSoldatov/MaksimSoldatov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
-
-
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
