@@ -5,7 +5,7 @@
 
 
 
-https://github-readme-stats.vercel.app/api?username=MaksimSoldatov&show_icons=true
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MaksimSoldatov)](https://github.com/MaksimSoldatov/github-readme-stats)
 
 
 
