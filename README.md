@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Software Engineer
-
 Software Engineer experienced in mobile development with all Apple ecosystem, with both Objective-C and Swift languages and via TDD methodology. I have developed applications for local and international markets with a good rank of a score.
 
 Love working in a team and share knowledge. I’m curious by nature. I love learning new things or tools every day and always improve.
