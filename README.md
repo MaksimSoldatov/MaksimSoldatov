@@ -6,4 +6,5 @@ Love working in a team and share knowledge. I’m curious by nature. I love lear
 I like to solve algorithmic tasks using python and study android development at free time.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MaksimSoldatov)](https://github.com/anuraghazra/github-readme-stats)
+![Profile views](https://gpvc.arturio.dev/MaksimSoldatov)  
 
